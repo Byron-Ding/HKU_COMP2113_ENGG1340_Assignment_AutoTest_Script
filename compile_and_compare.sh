@@ -1,6 +1,7 @@
 #！/bin/bash
 
 # 注意这里所有的路径全部都是相对于本脚本的路径
+# 本脚本由 BEng B24 Byron Ding 编写
 
 cpp_compile_setting_command="g++ -pedantic-errors -std=c++11"
 c_compile_setting_command="gcc -pedantic-errors -std=c11"
